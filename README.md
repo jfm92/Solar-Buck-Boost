@@ -11,6 +11,8 @@ Li-Po charging module with CN3063 and TPS63020 for solar and USB power, ensures 
 
 This modules allows to set the output voltage an working mode by doing some little modifications.
 
+![BoardLayout](frontInfo.jpg)
+
 ## Output Voltage:
 
 This module allows to set an ouput voltage by changing R4 resistor. By default it's 1M giving an ouput of 3.3v, but you can get the following ouput values.
